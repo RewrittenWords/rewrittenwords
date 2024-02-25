@@ -1,4 +1,4 @@
-### Hi there 👋, I am an aspiring developer. I am currently working towards my degrees in Information Technology. I have been a hobbyist, developing personal products for many years.
+### Hi there 👋, I am an aspiring developer. I am currently working towards my degrees in Information Technology. I have been a hobbyist, developing personal projects for many years.
 
 <!--
 **RewrittenWords/rewrittenwords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
